@@ -1,4 +1,18 @@
 # 语燕输入法
+
+## iFIT Build & Release
+
+> This repository is **iFIT's fork** of [`gurecn/YuyanIme`](https://github.com/gurecn/YuyanIme).
+> iFIT ships the **offline** release APK (`com.yuyan.pinyin.offline.release`) to China consoles.
+>
+> **See [`CLAUDE.md`](./CLAUDE.md) for the authoritative build & release runbook** — JDK/signing
+> prerequisites, the `./gradlew :app:assembleOfflineRelease` build, and the two distribution
+> targets (Admin Portal + China S3/CDN at `ifit-wolf.svc.ifit.cn`).
+>
+> The Chinese content below is the upstream project's original README.
+
+---
+
 雨燕以其敏捷、优雅的飞行姿态，在雨天依然够飞翔、不畏艰险、勇往直前的飞翔态度，被赋予**灵巧、聪明、伶俐、积极、创新**的寓意。语言是人类交流的基本工具，是最重要的文化载体，输入方式是语言交流和信息传递的重要环节，使语言交流变得更加**高效、便捷**。  
 [语燕输入法](https://github.com/gurecn/YuyanIme)秉承这些特点，以“**易用、快速、准确**”为核心理念，追求极致、卓越、流畅的输入体验。 在设计上，语燕输入法借鉴主流的谷歌拼音、微信输入法等主流输入法精华，追求整体简洁大方，易于上手。支持多种输入方式，规划包括拼音、手写、语音等，满足不同用户的输入需求。支持丰富的个性化设置选项，用户可以根据自己的喜好进行自定义设置，让输入更加符合个人习惯。
 ## 安装使用：
